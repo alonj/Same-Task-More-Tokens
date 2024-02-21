@@ -1,4 +1,3 @@
-# Same Task, More Tokens
 # <div align="center">Same Task, More tokens</div>
 ##  <div align="center">the Impact of Input Length on the Reasoning Performance of Large Language Models</div>
 <div align="center">Mosh Levy<sup id="a1">[*,1]</sup>, Alon Jacoby<sup id="a1">[*,1]</sup>, Yoav Goldberg<sup id="a1">[1,2]</sup></div> 
