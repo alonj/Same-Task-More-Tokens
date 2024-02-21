@@ -1,7 +1,7 @@
 # Same Task, More Tokens
 # <div align="center">Same Task, More tokens</div>
 ##  <div align="center">the Impact of Input Length on the Reasoning Performance of Large Language Models</div>
-<div align="center">Mosh Levy<sup id="a1">[*,1]</sup>, Alon Jacoby<sup id="a1">[*,1]</sup>, Yoav Goldberg<sup id="a1">[2,3]</sup></div> 
+<div align="center">Mosh Levy<sup id="a1">[*,1]</sup>, Alon Jacoby<sup id="a1">[*,1]</sup>, Yoav Goldberg<sup id="a1">[1,2]</sup></div> 
 
 ## What is this all about?
 We explore the impact of extending input lengths on the capabilities of Large Language Models (LLMs). 
@@ -30,6 +30,6 @@ It shows how to:
 - Perform the kind of analysis we have in our paper on Chain-of-Thought prompting.
 
 
-<sub id="f1">1</span>: Authors contributed equally to this work.  
-<span id="f2">2</span>: Bar-Ilan University  
-<span id="f2">3</span>: Allen Institute for AI  
+<sub id="f1">*</span>: Authors contributed equally to this work.  
+<span id="f2">1</span>: Bar-Ilan University  
+<span id="f2">2</span>: Allen Institute for AI  
