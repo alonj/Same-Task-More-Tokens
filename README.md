@@ -21,7 +21,7 @@ Additionally, our study reveals that the traditional metric of next word predict
 We also identified failure modes that can serve as useful guides for future research, potentially informing strategies to address the limitations observed in LLMs.
 
 ## Analysis notebook
-This notebook should help you analyse and evaluate models of your choice. We demonstrate all the necessary steps on GPT-3.5 Turbo (Version 1106)
+[The notebook](https://github.com/alonj/Same-Task-More-Tokens/blob/main/FLenQA%20analysis.ipynb) should help you analyse and evaluate models of your choice. We demonstrate all the necessary steps on GPT-3.5 Turbo (Version 1106)
 It shows how to:
 
 - Load the data, and the prompts we used for each task within our dataset.
