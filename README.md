@@ -9,6 +9,8 @@ Despite LLMs advancements in recent times, their performance consistency across 
 
 Here, we aim to change that by isolating the effect of input length and studying when, and how models fail to respond correctly to QA reasoning tasks.
 
+![Accuracy of models drops significantly with input length](intro_plot_with_cot.svg)
+
 ## How to investigate the impact of length
 We investigate this aspect by introducing a novel QA reasoning framework, our [**FLenQA Dataset**](https://github.com/alonj/Same-Task-More-Tokens/), specifically designed to assess the impact of input length. We isolate the effect of input length using multiple versions of the same sample, each being extended with padding of different lengths, types and locations.
 
