@@ -5,6 +5,10 @@
 
 [Please see full details in our pre-print on arxiv](https://arxiv.org/abs/2402.14848)
 </div> 
+<div align="center">
+<a href="https://huggingface.co/papers/2402.14848"><img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/paper-page-xl.svg" alt="Paper page on HF"></a>
+<a href="https://huggingface.co/datasets/alonj/FLenQA"><img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-xl.svg" alt="Dataset on HF"></a>
+</div>
 
 ## What is this all about?
 We explore the impact of extending input lengths on the capabilities of Large Language Models (LLMs). 
