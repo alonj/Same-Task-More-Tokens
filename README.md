@@ -3,7 +3,7 @@
 <div align="center">Mosh Levy<sup id="a1">[*,1]</sup>, Alon Jacoby<sup id="a1">[*,1]</sup>, Yoav Goldberg<sup id="a1">[1,2]</sup>
 <br><br>
 
-[Please see full detail in our pre-print on arxiv](https://arxiv.org/abs/2402.14848)
+[Please see full details in our pre-print on arxiv](https://arxiv.org/abs/2402.14848)
 </div> 
 
 ## What is this all about?
