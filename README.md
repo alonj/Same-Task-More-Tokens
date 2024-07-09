@@ -1,7 +1,9 @@
 # <div align="center">Same Task, More tokens</div>
-##  <div align="center">the Impact of Input Length on the Reasoning Performance of Large Language Models</div>
+##  <div align="center">The Impact of Input Length on the Reasoning Performance of Large Language Models</div>
 <div align="center">Mosh Levy<sup id="a1">[*,1]</sup>, Alon Jacoby<sup id="a1">[*,1]</sup>, Yoav Goldberg<sup id="a1">[1,2]</sup>
 <br><br>
+
+**Accepted to ACL 2024 main conference**
 
 [Please see full details in our pre-print on arxiv](https://arxiv.org/abs/2402.14848)
 </div> 
